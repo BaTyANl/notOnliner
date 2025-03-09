@@ -48,6 +48,11 @@ DustSucker Shop представляет собой кроссплатформе
   - **Configuration** - основные настройки приложения.
     
 - **Frontend(desktop)**:
+  - **Configurations**
+  - **Custom elements**
+  - **Page elements**
+  - **Slot-signal models**
+  - **API interaction level**
 
 - **Frontend(mobile)**: отсутствует.
 
@@ -55,7 +60,13 @@ DustSucker Shop представляет собой кроссплатформе
 
 ![AsIs architecture](https://github.com/BaTyANl/notOnliner/blob/main/documentation/images/Architecture%20AsIs.png)
 
- - Диаграмма классов API
+ - Диаграмма классов API V1
+
+![CD1](https://github.com/BaTyANl/notOnliner/blob/main/documentation/images/classDiagramV1.png)
+
+ - Диаграмма классов API V2
+
+![CD2](https://github.com/BaTyANl/notOnliner/blob/main/documentation/images/classDiagramV2.png)
 
 ## Часть 3. Сравнение и рефакторинг
 
