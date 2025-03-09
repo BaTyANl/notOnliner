@@ -36,5 +36,6 @@ DustSucker Shop представляет собой кроссплатформе
 ## Часть 2. Анализ архитектуры («As Is»)
 
 ### 1. Анализ текущей структуры кода
+![AsIs architecture](https://github.com/BaTyANl/notOnliner/blob/main/documentation/images/architectureAsIs.png)
 
 
