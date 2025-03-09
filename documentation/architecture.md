@@ -28,5 +28,9 @@ DustSucker Shop представляет собой кроссплатформе
 
 - **Backend**: JWT-аутентификация, кэширование, логирование и обработка ошибок, валидация данных.
 - **Frontend**: работа с API, обработка ошибок, управление состоянием приложения, логирование и обработка ошибок.
+  
+### 6. Структурная схема приложения
+
+  ![ToBe architecture](https://github.com/BaTyANl/notOnliner/blob/main/documentation/images/architecture.png)
 
 
