@@ -31,7 +31,7 @@ DustSucker Shop представляет собой кроссплатформе
   
 ### 6. Структурная схема приложения
 
-  ![ToBe architecture]()
+  ![ToBe architecture](https://github.com/BaTyANl/notOnliner/blob/main/documentation/images/architectureToBe.png)
   
 ## Часть 2. Анализ архитектуры («As Is»)
 
