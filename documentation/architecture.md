@@ -11,6 +11,8 @@ DustSucker Shop представляет собой кроссплатформе
 
 ### 2. Стратегия развёртывания
 
+- **Backend**: контейнеризация с Docker, использование VPS, база данных SQLite, деплой на NGINX. [Домен](http://dustsucker.tonitrusbn.ru/index.html).
+
 ### 3. Обоснование выбора технологий
 
 #### Backend:
