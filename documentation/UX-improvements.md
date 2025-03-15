@@ -108,7 +108,7 @@
 
 - После
 
-![image](https://github.com/user-attachments/assets/de878024-880b-4bbd-84aa-69650a992763)
+![Снимок экрана 2025-03-15 174756](https://github.com/user-attachments/assets/0e3a4a78-6e50-455a-ba2f-cdd9d5348191)
 
 ### 2. Изменение кнопок
 
